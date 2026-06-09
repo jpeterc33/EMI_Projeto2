@@ -1,0 +1,16 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+*.pidb
+*.suo
+*.user
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.DS_Store
